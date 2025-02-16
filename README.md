@@ -66,6 +66,12 @@ The server receives the encrypted file and decrypts it back to its original form
 - Implementing **RSA encryption** for secure key exchange.
 - Adding **multi-client support** for encrypted file sharing.
 - Enhancing **GUI support** for better usability.
+  
+## License
+This project is licensed under the MIT License.
+
+## Author
+Developed by Vidushi Gupta
 
 
 
